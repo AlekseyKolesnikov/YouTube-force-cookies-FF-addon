@@ -1,4 +1,5 @@
 ### FireFox extension to force some YouTube cookies.
+Source: https://github.com/AlekseyKolesnikov/YouTube-force-cookies-FF-addon
 
 Based on https://github.com/thisdotvoid/youtube-classic-extension
 
