@@ -1,0 +1,20 @@
+{
+  "name": "Force YouTube Cookies",
+  "version": "0.1.0",
+  "description": "Allows you to force some YouTube cookies",
+  "permissions": ["storage", "webRequest", "webRequestBlocking", "*://youtube.com/*", "*://www.youtube.com/*"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "options_ui": {
+      "page": "options.html",
+      "browser_style": true
+  },
+  "icons": {
+    "16": "images/fytc_16.png",
+    "32": "images/fytc_32.png",
+    "48": "images/fytc_48.png",
+    "128": "images/fytc_128.png"
+  },
+  "manifest_version": 2
+}
